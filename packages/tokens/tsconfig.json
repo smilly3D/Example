@@ -1,0 +1,4 @@
+{
+  "extends": "@enline-chakra-ui/ts-config/base.json",
+  "include": ["src"]
+}
